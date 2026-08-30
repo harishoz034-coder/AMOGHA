@@ -1,0 +1,3 @@
+# Amogha Pure Veg Restaurant Robots
+User-agent: *
+Allow: /
